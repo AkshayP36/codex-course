@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Auction image placeholder</title>
+  <desc id="desc">A warm abstract composition used when an auction image cannot load.</desc>
+  <defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d1b99c"/><stop offset="1" stop-color="#685e50"/></linearGradient></defs>
+  <rect width="1200" height="900" fill="url(#background)"/>
+  <circle cx="870" cy="270" r="220" fill="#ede0c6" opacity=".75"/>
+  <path d="M160 710 480 330l170 190 120-120 270 310Z" fill="#3f453e" opacity=".9"/>
+  <rect x="120" y="120" width="380" height="90" rx="8" fill="#f7f5ef" opacity=".9"/>
+  <text x="155" y="178" fill="#1d2421" font-family="Georgia, serif" font-size="42">Hearth &amp; Hammer</text>
+</svg>

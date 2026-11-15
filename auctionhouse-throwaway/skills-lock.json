@@ -1,0 +1,83 @@
+{
+  "version": 2,
+  "skills": {
+    "claude-code-review": {
+      "source": "schneidenbach/skills",
+      "sourceType": "github",
+      "skillPath": "skills/claude-code-review/SKILL.md",
+      "computedHash": "d88aa6a51cf391522f9ec3694cc039445258c6eff8f1776f91e7caf63dcf3857"
+    },
+    "codex-code-review": {
+      "source": "schneidenbach/skills",
+      "sourceType": "github",
+      "skillPath": "skills/codex-code-review/SKILL.md",
+      "computedHash": "e8ee298b46a2c6bc7b566f181240e36cfffb287da154909f5b6a22d34a1ef2e2"
+    },
+    "domain-modeling": {
+      "source": "schneidenbach/skills",
+      "sourceType": "github",
+      "skillPath": "skills/domain-modeling/SKILL.md",
+      "computedHash": "b774575abca4507e581d59cdf06b37f5340744dcdef55dd76bda64c00b476a11"
+    },
+    "grill-me": {
+      "source": "schneidenbach/skills",
+      "sourceType": "github",
+      "skillPath": "skills/grill-me/SKILL.md",
+      "computedHash": "ab1acb9fbd9eaee03da254abb8a8de228d1e7a07475fe959da4a5eefa34ea4b9"
+    },
+    "grill-with-docs": {
+      "source": "schneidenbach/skills",
+      "sourceType": "github",
+      "skillPath": "skills/grill-with-docs/SKILL.md",
+      "computedHash": "02e258f41d210f9b2e7cce9faf62b3c59e8fcebe5d2736369c3cd07d471324f8"
+    },
+    "grilling": {
+      "source": "schneidenbach/skills",
+      "sourceType": "github",
+      "skillPath": "skills/grilling/SKILL.md",
+      "computedHash": "34cea220383670130442576cca88646c9516e9c82082a543caf746b263928fc0"
+    },
+    "prototype": {
+      "source": "schneidenbach/skills",
+      "sourceType": "github",
+      "skillPath": "skills/prototype/SKILL.md",
+      "computedHash": "1e3ba2202a5b77b8aa50bc4447432331d6e42590e53ec0935689662cfed199ca"
+    },
+    "relentless-quality-assurance": {
+      "source": "schneidenbach/skills",
+      "sourceType": "github",
+      "skillPath": "skills/relentless-quality-assurance/SKILL.md",
+      "computedHash": "4ff40292d57d690beb386418d2a3322b49aa90c9c20f292ad2608e912e8c1693"
+    },
+    "relentless-quality-assurance-and-fixes": {
+      "source": "schneidenbach/skills",
+      "sourceType": "github",
+      "skillPath": "skills/relentless-quality-assurance-and-fixes/SKILL.md",
+      "computedHash": "5e4ed6f3f0d497140d65e77a74807b55ebe18f102cb70b6d3de72f2a63693b37"
+    },
+    "research": {
+      "source": "schneidenbach/skills",
+      "sourceType": "github",
+      "skillPath": "skills/research/SKILL.md",
+      "computedHash": "5bd6a6b833227dd87ee023c2d4734f4c349f290140514bb80bdc041ead1e837e"
+    },
+    "revu": {
+      "source": "schneidenbach/skills",
+      "sourceType": "github",
+      "skillPath": "skills/revu/SKILL.md",
+      "computedHash": "abc9ff7dedb09fc7c76b7ac2060bb457eabb76b0b60cbcad0bbbc957afd87a02"
+    },
+    "spencer-approved-frontends": {
+      "source": "schneidenbach/skills",
+      "sourceType": "github",
+      "skillPath": "skills/spencer-approved-frontends/SKILL.md",
+      "computedHash": "f1631ce806c0e85376f53e668a3d8071d2f0c5520af0eb602e57efc6bb35c9ac"
+    },
+    "wayfinder": {
+      "source": "schneidenbach/skills",
+      "sourceType": "github",
+      "skillPath": "skills/wayfinder/SKILL.md",
+      "computedHash": "dc730705bd149f8db860410094f70fd1a7b3f32c44b7f84fe24e176b513cf36b"
+    }
+  }
+}
